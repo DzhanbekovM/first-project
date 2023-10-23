@@ -1,6 +1,19 @@
+.body {
+
+}
+.box {
+  border-style: solid;
+  box-sizing: content-box;
+  border-color: rgb(136, 136, 197);
+  width: 400px;
+  height: 400px;
+  position: sticky;
+  display: flex;
+
+}
 .footer {
-    color:burlywood;
-    text-shadow: 2px;
-    font-size: bold;
-    font-weight: 30px;
+  color:burlywood;
+  text-shadow: 2px;
+  font-size: bold;
+  font-weight: 30px;
 }
